@@ -44,6 +44,8 @@ Diagram your component architecture. Clearly define how components will interact
 ### 4. Wireframes
 Develop wireframes for both mobile and desktop views. Consider different screen sizes for tablets, desktops, and phones. This will guide your UI design and ensure a consistent user experience across devices.  Invite your instructional team as collaborators on this document.
 
+[wireframes](https://miro.com/welcomeonboard/VWFrdWVEZ3F2WU1jQTVEYTJtclhPTWJ2ZVN0emRGUFh5bXdoSmhobE55cE0wR2dBdnpDcFpoQkxod2JOakx6VHwzNDU4NzY0NTYyMjI3NjQwMDI3fDI=?share_link_id=975547936049)
+
 ### 5. Group Norms
 Establish a set of group norms that outline how you'll communicate, make decisions, and handle conflicts. Clear norms will enhance collaboration and create a positive working environment.  This is a contract that you will all agree upon to work together on this project.  It should include
 
