@@ -67,6 +67,12 @@ Keep in mind it is the expectation that every team member contribute a Pull Requ
 ### 6. Delegated Tasks
 Assign specific tasks to each team member. Define roles and responsibilities, ensuring everyone has a clear understanding of their contributions. This will foster efficient teamwork and individual accountability. Each task should detail a  User Story that explains a desired feature.  Each member of the team must be assigned at least one user story to work on over the course of the project.
 
+For the most part its going to be a collaborative effort, we will be helping each other code while being in the same study rooms. We will deligate the following minor task to each individual:
+Mikal - Design
+James - Routes
+Alexander - API Fetch
+Erick - basic app structure
+
 
 ## Deliverables
 
