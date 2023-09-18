@@ -45,7 +45,7 @@ Create a GitHub repository for your project. Make sure to include all team membe
 Keep in mind it is the expectation that every team member contribute a Pull Request to the main repository and git history will be monitored to see who is contributing what code.
 
 
-### 6. Delegated Tasks
+### 7. Delegated Tasks
 Assign specific tasks to each team member. Define roles and responsibilities, ensuring everyone has a clear understanding of their contributions. This will foster efficient teamwork and individual accountability. Each task should detail a  User Story that explains a desired feature.  Each member of the team must be assigned at least one user story to work on over the course of the project.
 
 
