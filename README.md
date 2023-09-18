@@ -57,8 +57,7 @@ Planning documents for this project are due by ***End of Day 9/11***
 Submit relevant links on Canvas under the React Group Project Project Prep
 
 ### Stand Up 
-Each team must schedule a stand-up with their instructor to take place during class on 9/17.  
-It is the responsibility of each team to proactively communicate when they would like this meeting to occur.  
+Each team must schedule a stand-up with their instructor to take place during class on a weekly basis.  
 During this stand up each teammember must describe:
 * What features they have been working on 
 * What Blockers (if any) they are facing
